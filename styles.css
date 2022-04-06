@@ -12,6 +12,7 @@ background: #13ebe0;
 }
 section{
   min-height: 100vh;
+background: linear-gradient(45deg,rgb(73, 93, 209),rgb(17, 0, 255),rgb(131, 18, 112));
 
 }
 #sec1{
