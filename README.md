@@ -1,5 +1,5 @@
 👉Website link -->https://webdprojectgr18.github.io/FINVISOR_WEBD_GRP18/<br>
-👉Need to install xampp,php,mysql<br>
+👉Need to install xampp server with apache and mysql server running<br>
 👉Website created by Abhinash Kumar(LIT2021057),Pawan Maheshwari(LIT2021008),
                <br>Ayush Kamal(LIT2021015),Aishwarya Paninde(LIT2021019),
                <br>Protyay Mondal(LIT2021051),Pallavi Gupta(LIT2021046),
